@@ -1,5 +1,7 @@
 # WEB1404-RICARDO-WELCH
 
+[blog](http://fourthfloor.raveweb.net/rwelch/)
+
 [EYE BOMBING](https://github.com/TresFriends/EyeBombing)
 
 
