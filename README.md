@@ -1,8 +1,8 @@
 # WEB1404-RICARDO-WELCH
 
-Name: Ricardo welch
-student number: 
-course: WEB1404
+###Name: Ricardo welch
+###student number: 
+###course: WEB1404
 
 
 
