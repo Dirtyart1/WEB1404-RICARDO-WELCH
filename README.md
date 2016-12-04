@@ -1,6 +1,11 @@
 # WEB1404-RICARDO-WELCH
 
-[blog](http://fourthfloor.raveweb.net/rwelch/)
+Name: Ricardo welch
+student number: 
+course: WEB1404
+
+
+
 
 [EYE BOMBING](https://github.com/TresFriends/EyeBombing)
 
@@ -15,3 +20,9 @@
 
 
 [code on your plate](https://github.com/Dirtyart1/WEB14103-Ricardo-Welch)
+
+
+[Recipe](https://thimbleprojects.org/dirtyart1/145116)
+
+
+[blog](http://fourthfloor.raveweb.net/rwelch/)
